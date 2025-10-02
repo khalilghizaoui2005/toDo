@@ -1,0 +1,32 @@
+body {
+  background: #f8f9fa;
+}
+
+input::placeholder {
+  color: #adb5bd;
+  font-weight: 500;
+}
+
+.card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.btn-primary {
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border: none;
+}
+
+.btn-success {
+  background: #28a745;
+  border: none;
+}
+
+.btn-danger {
+  background: #dc3545;
+  border: none;
+}
