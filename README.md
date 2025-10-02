@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# NiceSchool
+NiceSchool est une application web moderne pour gérer facilement une école. Elle propose des espaces pour chaque utilisateur : admin, prof, élève et parent. Le but est de simplifier la communication et le suivi scolaire.
+>>>>>>> 0c96833c49638fdac32d2b0f294ee82d6b8dba5a
